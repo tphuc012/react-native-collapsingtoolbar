@@ -60,7 +60,6 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
       },
       title: {
-        fontFamily: 'Roboto_medium',
         fontSize: 25,
       },
       scrollViewContent: {
